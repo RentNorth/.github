@@ -7,3 +7,6 @@
 ## Infrastructure
 ### AWS
 ### GPC
+## Documentation
+### Excalidraw
+https://excalidraw.com/#room=9ac11d3467963cb8614f,S6NdSLqXG6SaTCfDR5Ah3A
